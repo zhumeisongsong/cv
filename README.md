@@ -8,10 +8,11 @@ summarize your personal/career history concisely
 ## 🎨 The Goals and Vision I'd Like to Accomplish
 
 ## ⭐ Skills
-- Front end development
-- Back end development
-- System design
-- Scrum development
+
+- 💄 Front end development
+- 👽 Back end development
+- 👷 System design / clean architecture
+- ⚡️ Agile methodology / scrum  
 
 ## 🔨 Tech Stack
 ### Languages:
@@ -38,8 +39,9 @@ Used:
   <img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=for-the-badge&logo=Ruby-on-Rails&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white" />
   <img alt="Flutter" />
-  <img alt="Django"/>
+  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django"/>
   <img alt="Next.js"/>
+  <>
 
 ## 📋 Experience
 
