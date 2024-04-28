@@ -1,0 +1,20 @@
+{
+  "name": "resume",
+  "version": "2.0.0",
+  "scripts": {
+    "lint": "textlint docs/README.md",
+    "build:pdf": "md-to-pdf docs/README.md --config-file ./pdf-configs/config.js"
+  },
+  "author": "Zhumei Song <zhumeisongsong@gmail.com>",
+  "devDependencies": {
+    "textlint": "^14.0.4",
+    "textlint-rule-spellcheck-tech-word": "^5.0.0"
+  },
+  "volta": {
+    "node": "20.11.0",
+    "pnpm": "9.0.6"
+  },
+  "dependencies": {
+    "md-to-pdf": "^5.2.4"
+  }
+}
