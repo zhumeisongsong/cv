@@ -1,5 +1,4 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: doc
 ---
 
@@ -7,7 +6,7 @@ layout: doc
 
 Software Engineer based in Tokyo 🇯🇵
 
-<div style="display:flex; gap: 8px; flex-warp: wrap">
+<div style="display:flex; gap: 8px; flex-warp: wrap;">
   <a href="https://www.linkedin.com/in/zhumei-song-a9041a1bb" target="_blank">
     <img alt="Linkedin" src="https://img.shields.io/badge/linkdin-0a66c2.svg?&logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
@@ -108,17 +107,17 @@ A passionate advocate for clean code and clean architecture.
 
 Atrae is a Japanese IT company specializing in People Tech, I'm part of the **Wevox product team**. [Wevox](https://get.wevox.io/) is a B2B SaaS web service designed to enhance organizational capabilities. Over 3,390 organizations have adopted Wevox, and the platform has gathered more than 283.5 million survey responses in total
 
-- By separating the Domain and Application layers from the Presenter, the issue of an overly heavy Presenter was addressed. This made the scope of changes more manageable and significantly reduces the number of mock methods required during testing
+- By separating the Domain and Application layers from the Presenter, the issue of the heavy Presenter was addressed. This made the scope of changes more manageable and significantly reduces the number of mock methods required during testing
 - Manually implemented a Dependency Injection (DI) framework in React, achieving complete separation between interface definitions and implementations. This improved the low coupling and high flexibility of the modules
 - Limited the use of React to the Interface-Adapter layer and UI layer, reducing the system's dependency on React and specific state management libraries
-- Built and migrated a survey answer application with over 500,000 monthly visits to a Monorepo. The modular design supports independent development and debugging of different components of the application, improving development efficiency and future maintainability. By implementing on-demand loading of components, the page's FCP speed was improved by 50% (from 1.8 seconds to 0.9 seconds)
+- Refactored and migrated the survey answer application with over 500,000 monthly visits to a Monorepo. The modular design supports independent development and debugging of different components of the application, improving development efficiency and future maintainability. By implementing on-demand loading of components, the page's FCP speed was improved by 50% (from 1.8 seconds to 0.9 seconds)
 - Used semantic-release for version management of both internal private packages and shared open-source packages, implementing semantic versioning and automating the release process
 - Collaborated with backend engineer to implement a unified front-end and back-end error-handling design through a shared package (including input validation and error handling). Provided a documented error-handling solution based on Error Codes
 - Adopted a GraphQL Federation architecture in a new project, designing Subgraphs based on aggregate roots, successfully avoiding circular dependency issues
 - Developed GraphQL-based findAllWorkflowActions and findAllWorkflowTemplates APIs using NestJS, optimizing the performance of these queries
 - Used Persisted Queries to reduce request size, decreasing bandwidth consumption and eliminating the performance overhead of having the server parse and validate query content on every request
-- Applied Gzip compression to large JS files exceeding 10 MB, significantly reducing initial page load time.
-- Collaborated with designers to develop and maintain a reusable UI component library based on Material UI (including components such as LoadingButton, Steps, Rate, Spin, Selectable Table, etc.), enhancing team development efficiency and code consistency.
+- Applied Gzip compression to large JS files exceeding 10 MB, significantly reducing initial page load time
+- Collaborated with designers to develop and maintain a reusable UI component library based on Material UI (including components such as LoadingButton, Steps, Rate, Spin, Selectable Table, etc.), enhancing team development efficiency and code consistency
 
 <!-- [📦 Workflow App](projects/202209) -->
 <!-- [📦 Wevox Admin App](projects/202112) -->
@@ -200,6 +199,6 @@ I not only want to complete specific tasks like pages or APIs, but also want to 
 
 ## 💚 Personal
 
-I love traveling, gardening, and writing blogs to share my learning and experience writing [blogs](<(https://zhumeisongsong.github.io/blog)>) to share my learning and experience.
+I love traveling, gardening, and writing blogs to share my learning and experience writing [blogs](https://zhumeisongsong.github.io/blog) to share my learning and experience.
 
 Hoping to complete a trip around the world with my family.

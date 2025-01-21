@@ -20,7 +20,7 @@ layout: doc
   </a>
 
   <a href="mailto:zhumeisongsong@gmail.com" style="text-decoration: none;">
-   <div style="background-color: #6b8b08; color: white; padding: 2px 8px; font-size: 12px;">zhumeisongsong@gmail.com</div>
+   <div style="background-color: #6b8b08; color: white; padding: 2px 8px; font-size: 13px;">zhumeisongsong@gmail.com</div>
   </a>
 </div>
 
@@ -95,13 +95,47 @@ layout: doc
 **Others:**
 
 <div style=" display:flex; gap: 8px; flex-wrap: wrap;">
-  <img alt="Self Driven" src="https://img.shields.io/badge/Self%20Driven-fcc624?style=for-the-badge&logo=Self%20Driven&logoColor=white" />
+  <img alt="Self Driven" src="https://img.shields.io/badge/Self%20Driven-3178c6?style=for-the-badge&logo=Self%20Driven&logoColor=white" />
   <img alt="Problem Solving" src="https://img.shields.io/badge/Problem%20Solving-fcc624?style=for-the-badge&logo=Problem%20Solving&logoColor=white" />
   <img alt="Team Collaboration" src="https://img.shields.io/badge/Team%20Collaboration-47A248?style=for-the-badge&logo=Team%20Collaboration&logoColor=white" />
   <img alt="Communication" src="https://img.shields.io/badge/Communication-0077b5?style=for-the-badge&logo=Communication&logoColor=white" />
 </div>
 
 ## 👩🏼‍💻 職務経歴
+
+::: details ソフトウェアエンジニア @[Atrae](https://atrae.co.jp/) _(2021.12 ~ · 3 yrs+)_
+
+- ドメイン層とアプリケーション層をプレゼンターから分離することにより、重いプレゼンターの問題が解決されました。これにより、変更の範囲がより管理しやすくなり、テスト時に必要なモックメソッドの数が大幅に減少しました
+- React で手動で依頼注入（DI）フレームワークを実装し、インターフェース定義と実装の完全な分離を実現しました。これにより、モジュールの低い結合度と高い柔軟性が向上しました
+- React の使用をインターフェース-アダプター層と UI 層に限定することで、システムの React や特定の状態管理ライブラリへの依存を減らしました
+- 月間訪問者数 50 万を超えるサーベイ回答アプリケーションを Monorepo に移行し、モジュール化されたデザインにより、回答画面の異なるステップの独立した開発とデバッグをサポートし、開発効率と今後の保守性を向上させました。コンポーネントのオンデマンド読み込みを実装することにより、ページの FCP 速度が 50％改善されました（1.8 秒から 0.9 秒へ）
+- 内部プライベートパッケージと共有オープンソースパッケージのバージョン管理に semantic-release を使用し、セマンティックバージョニングを実現してリリースプロセスを自動化しました
+- バックエンドエンジニアと協力して、共有パッケージを通じてフロントエンドとバックエンドのエラーハンドリングの統一設計を実装しました（入力検証とエラーハンドリングを含む）。Error Code に基づく文書化されたエラーハンドリング解決策を提供しました
+- 新しいプロジェクトで GraphQL Federation アーキテクチャを採用し、アグリゲートルートに基づいてサブグラフを設計することで、循環依存問題を成功裏に回避しました
+- NestJS を使用して、GraphQL ベースの findAllWorkflowActions および findAllWorkflowTemplates API を開発し、これらのクエリのパフォーマンスを最適化しました
+- Persisted Queries を使用してリクエストサイズを削減し、帯域幅の消費が減少し、サーバーが毎回クエリ内容を解析および検証する際のパフォーマンスオーバーヘッドがなくなりました
+- 10MB を超える大きな JS ファイルに Gzip 圧縮を適用し、初期ページロード時間を大幅に短縮しました
+- デザイナーと協力して、Material UI に基づいた再利用可能な UI コンポーネントライブラリ（LoadingButton、Steps、Rate、Spin、Selectable Table などのコンポーネントを含む）を開発および維持し、チームの開発効率とコードの一貫性を向上させました
+
+:::
+
+::: details フロントエンドリード @[Monstarlab Japan](https://monstar-lab.com/jp) _(2018.12 ~ 2021.11 · 3 yrs)_
+
+:::
+
+::: details フロントエンドリード @[Monstarlab China](https://www.monstar-lab.com.cn/) _(2016.03 ~ 2018.11 · 2 yrs 9 mos)_
+
+:::
+
+::: details フロントエンドエンジニア @[Monstarlab China](https://www.monstar-lab.com.cn/) _(2016.03 ~ 2018.11 · 2 yrs 9 mos)_
+
+:::
+
+::: details フリーランス _(2009.07 ~ 2014.09 · 5 yrs 3 mos)_
+
+:::
+
+## 🌱 個人プロジェクト
 
 ## 🎨 目標やビジョン
 
@@ -111,6 +145,12 @@ layout: doc
 - 🇺🇸 **英語**: ビジネスレベル
 - 🇨🇳 **中国語**: ネイティブ
 
-## 🏆 活動
-
 ## 🎓 学歴
+
+[成都理工大学](https://www.cdut.edu.cn/) - 学士 - 成都、中国 _(2008.09 - 2012.06)_
+
+## 💚 個人
+
+旅行、園芸、[ブログ](https://zhumeisongsong.github.io/blog)を書いて学んだことを共有しています。
+
+世界一周の旅を家族と一緒にしたいです。
