@@ -103,7 +103,11 @@ layout: doc
 
 ## 👩🏼‍💻 職務経歴
 
-::: details ソフトウェアエンジニア @[Atrae](https://atrae.co.jp/) _(2021.12 ~ · 3 yrs+)_
+::: details ソフトウェアエンジニア @[Atrae](https://atrae.co.jp/) _(2021.12 ~ · 3年+)_
+
+React/Next.js/TailwindCSS/Jotai/Valtio/Immer/Nx Monorepo/TypeScript/NestJS/NodeJS/GraphQL/Restful API/Axios/Urql/Docker/AWS/CICD
+
+AtraeはPeople Tech分野の日本のIT企業で、私はWevoxプロダクトチームの一員です。[Wevox](https://get.wevox.io/)は、組織の能力を向上させることを目的としたB2B SaaSウェブサービスです。Wevoxは3,390以上の組織に採用され、これまでに2.83億件以上の調査回答データを集めています。
 
 - ドメイン層とアプリケーション層をプレゼンターから分離することにより、重いプレゼンターの問題が解決されました。これにより、変更の範囲がより管理しやすくなり、テスト時に必要なモックメソッドの数が大幅に減少しました
 - React で手動で依頼注入（DI）フレームワークを実装し、インターフェース定義と実装の完全な分離を実現しました。これにより、モジュールの低い結合度と高い柔軟性が向上しました
@@ -119,19 +123,21 @@ layout: doc
 
 :::
 
-::: details フロントエンドリード @[Monstarlab Japan](https://monstar-lab.com/jp) _(2018.12 ~ 2021.11 · 3 yrs)_
+::: details フロントエンドリード @[Monstarlab Japan](https://monstar-lab.com/jp) _(2018.12 ~ 2021.11 · 3年)_
 
 :::
 
-::: details フロントエンドリード @[Monstarlab China](https://www.monstar-lab.com.cn/) _(2016.03 ~ 2018.11 · 2 yrs 9 mos)_
+::: details フロントエンドリード @[Monstarlab China](https://www.monstar-lab.com.cn/) _(2016.03 ~ 2018.11 · 2年 9ヶ月)_
 
 :::
 
-::: details フロントエンドエンジニア @[Monstarlab China](https://www.monstar-lab.com.cn/) _(2016.03 ~ 2018.11 · 2 yrs 9 mos)_
+::: details フロントエンドエンジニア @[Monstarlab China](https://www.monstar-lab.com.cn/) _(2014.10 ~ 2016.02 · 1年 5ヶ月)_
 
 :::
 
-::: details フリーランス _(2009.07 ~ 2014.09 · 5 yrs 3 mos)_
+::: details フリーランス _(2009.07 ~ 2014.09 · 5年 3ヶ月)_
+
+Html5/CSS3/SASS/JavaScript/jQuery/PHP/WordPress
 
 :::
 

@@ -105,7 +105,9 @@ A passionate advocate for clean code and clean architecture.
 
 ::: details Software Engineer @[Atrae](https://atrae.co.jp/) _(2021.12 ~ · 3 yrs+)_
 
-Atrae is a Japanese IT company specializing in People Tech, I'm part of the **Wevox product team**. [Wevox](https://get.wevox.io/) is a B2B SaaS web service designed to enhance organizational capabilities. Over 3,390 organizations have adopted Wevox, and the platform has gathered more than 283.5 million survey responses in total
+React/Next.js/TailwindCSS/Jotai/Valtio/Immer/Nx Monorepo/TypeScript/NestJS/NodeJS/GraphQL/Restful API/Axios/Urql/Docker/AWS/CICD
+
+Atrae is a Japanese IT company specializing in People Tech, I'm part of the **Wevox product team**. [Wevox](https://get.wevox.io/) is a B2B SaaS web service designed to enhance organizational capabilities. Over 3,390 organizations have adopted Wevox, and has gathered more than 283.5 million survey responses data in total.
 
 - By separating the Domain and Application layers from the Presenter, the issue of the heavy Presenter was addressed. This made the scope of changes more manageable and significantly reduces the number of mock methods required during testing
 - Manually implemented a Dependency Injection (DI) framework in React, achieving complete separation between interface definitions and implementations. This improved the low coupling and high flexibility of the modules
