@@ -10,7 +10,7 @@ export default defineConfig({
     nav: [
       { text: "CV", link: "/" },
       { text: "CV-ja", link: "/ja" },
-      { text: "Projects", link: "/projects/202112" },
+      // { text: "Projects", link: "/projects/202112" },
       { text: "Blog", link: "https://zhumeisongsong.github.io/blog" },
     ],
 
