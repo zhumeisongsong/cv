@@ -2,16 +2,17 @@
 
 ::: details Software Engineer @[Atrae](https://atrae.co.jp/) _(2021.12 ~ · 3 yrs+)_
 
-- 通过对 domain service 和 application service 的抽象解决前端 presenter 过重导致的修改和测试困难的问题
-- 手写的 DI 框架在 react 项目中实现了依赖注入，实现模块间低耦合和高灵活性
-- 通过应用 Persisted Queries 来减少请求大小已降低带宽消耗和服务器无需每次都解析和验证查询内容的性能开销
-- 完成了以 domain 为单位 error case 的前后端共通化设计(form validation, error handling...)
-- 在新建项目上使用了 GraphQL Federation 的架构, 在 DDD 的指导下通过确定聚合根来指导各个 subgraph 的设计避免循环依赖
-- 使用 nestjs 开发了基于 GraphQL 的 findAllWorkflowActions 和 findAllWorkflowTemplates API，并对该 query 进行性能优化
-- 使用 semantic-release 对私有包/共用包进行版本控制
-- 对大型 JS 文件（超过 10 MB）应用了 Gzip 压缩，提升了网站的首屏显示速度
-- 重构并迁移每月访问量超过 50 万+调查回答应用到 monorepo。重构采用的是模块化设计，一次调查的不同步骤可以独立开发和调试，不仅提高了开发效率，后续对调查的修改也更加容易。通过显示时才加载需要的组件，迁移后页面的访问速度提高了 50%（FCP 从 1.8s 到 0.9s）
-- 设计和维护基于 Material UI 的共通 atom 组件（LoadingButton, Steps, Rate, Spin, Selectable Table...）
+- 通过从 Presenter 中分离出 Domain 层 和 Application 层 解决 Presenter 过重的问题，修改时的影响范围变得可控，显著减少测试时需要的 Mock 方法数量
+- 在 React 项目中手写 DI 框架，实现了接口定义与实现的完全隔离，提升模块的低耦合性和高灵活性
+- 将 React 的使用限制在 Interface-Adapter 层和 UI 层，降低了系统对 React 和特定状态管理库的依赖
+- 重构并迁移月访问量超过 50 万的调查回答应用至 Monorepo。采用模块化设计支持回答应用不同环节的独立开发与调试，提高了开发效率和后续维护便捷性；通过按需加载组件，页面访问速度提升 50%（FCP 从 1.8 秒优化至 0.9 秒）
+- 使用 semantic-release 对内部私有包和开源共用包进行版本管理，完成语义化版本控制及自动发布流程
+- 和后端工程师合作，通过一个共通包实现了错误场景的前后端共通化设计（包括 input 验证与错误处理），提供了基于 Error Code 的文档化错误处理解决方案
+- 在新建项目中采用 GraphQL Federation 架构，依据聚合根指导 Subgraph 的设计，成功避免循环依赖问题
+- 使用 NestJS 开发了基于 GraphQL 的 findAllWorkflowActions 和 findAllWorkflowTemplates API，并对该 query 进行性能优化
+- 通过使用 Persisted Queries 来减少请求大小已降低带宽消耗和服务器无需每次都解析和验证查询内容的性能开销
+- 对超过 10 MB 的大型 JS 文件应用 Gzip 压缩，大幅缩短首屏加载时间
+- 和设计师合作，开发和维护了基于 Material UI 的通用组件库（如 LoadingButton、Steps、Rate、Spin、Selectable Table 等），提升团队开发效率和代码一致性
 
 :::
 
@@ -22,6 +23,7 @@ React/Redux/Redux-Saga/Immer/Sass/styled-components/axios/Docker/AWS/GitHub Acti
 - 咖啡项目的 virtual list 实现
 - 开发了支持 10 万人+同时在线的直播留言功能。使用原子计数器保证并发中的留言数量的计数安全。使用 throttle 限制了留言刷新的频率保证性能。 使用 Python 脚本模拟大量并发请求，测试了留言功能是否能支持 10 万人同时在线
 - 领导了大型股票交易系统的 design system 的开发和文档化
+- The standardized admin management system and the shared common components/functions between projects significantly improved the development efficiency
 
 :::
 
