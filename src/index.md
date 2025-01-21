@@ -106,11 +106,16 @@ A passionate advocate for clean code and clean architecture.
 
 ::: details Software Engineer @[Atrae](https://atrae.co.jp/) _(2021.12 ~ · 3 yrs+)_
 
-[📦 Wevox Admin App](projects/202112)
+Atrae is a Japanese IT company specializing in People Tech, I'm part of the **Wevox product team**. [Wevox](https://get.wevox.io/) is a B2B SaaS web service designed to enhance organizational capabilities. Over 3,390 organizations have adopted Wevox, and the platform has gathered more than 283.5 million survey responses in total.
+
+<!-- [📦 Workflow App](projects/202209) -->
+<!-- [📦 Wevox Admin App](projects/202112) -->
 
 :::
 
 ::: details Front-End Lead @[Monstarlab Japan](https://monstar-lab.com/jp) _(2018.12 ~ 2021.11 · 3 yrs)_
+
+MonstarLab Group is a global software development and consultation firm.
 
 :::
 
@@ -171,8 +176,14 @@ I not only want to complete specific tasks like pages or APIs, but also want to 
 
 ## 🏆 Activities
 
-- [Xinyao Cup Hackathon, Code for City] **First Prize Winner** with product [colorit](https://github.com/git-hacker/colorit) - Chengdu, Sichuan, China _(2018.01)_
+- [Xinyao Cup Hackathon, Code for City] **1st Place** with a product of deep learning in image Processing: [colorit](https://github.com/git-hacker/colorit) - Chengdu, Sichuan, China _(2018.01)_
 
 ## 👩🏼‍🎓 Education
 
 [Chengdu University of Technology](https://www.cdut.edu.cn/) - B.S. Landscape Architecture - Chengdu, China _(2008.09 - 2012.06)_
+
+## 💚 Personal
+
+I love traveling, gardening, and writing blogs to share my learning and experience writing [blogs](<(https://zhumeisongsong.github.io/blog)>) to share my learning and experience.
+
+Hoping to complete a trip around the world with my family.
