@@ -136,7 +136,12 @@ MonstarLab Group is a global software development and consultation firm.
 
 :::
 
-::: details Front-End Engineer @[Monstarlab China](https://www.monstar-lab.com.cn/) - Chengdu, China _(2014.10 ~ 2016.02 · 1 yrs 5 mos)_
+::: details Front-End Engineer @[Monstarlab China](https://www.monstar-lab.com.cn/) _(2014.10 ~ 2016.02 · 1 yrs 5 mos)_
+
+Html5/CSS3/SASS/JavaScript/jQuery/React/React Router/gulp/rollup
+
+- Designed and developed interactive, responsive web pages based on jQuery, ensuring optimal user experience across various terminal devices
+- Self-taught React and successfully implemented a front-end and back-end separation in a video streaming website project
 
 :::
 
@@ -146,6 +151,7 @@ Html5/CSS3/SASS/JavaScript/jQuery/PHP/WordPress
 
 - Self-learned web development skills during college. Worked as a landscape architect after graduation but pursued a passion for web development through side projects.
 - Served over 20 companies, including architecture design firms, landscape design firms, IT companies, game companies, and watch sales company. Delivered successful digital marketing and promotion projects for more than 30 brands.
+
   :::
 
 ## 🌱 Independent Projects

@@ -103,11 +103,11 @@ layout: doc
 
 ## 👩🏼‍💻 職務経歴
 
-::: details ソフトウェアエンジニア @[Atrae](https://atrae.co.jp/) _(2021.12 ~ · 3年+)_
+::: details ソフトウェアエンジニア @[Atrae](https://atrae.co.jp/) _(2021.12 ~ · 3 年+)_
 
 React/Next.js/TailwindCSS/Jotai/Valtio/Immer/Nx Monorepo/TypeScript/NestJS/NodeJS/GraphQL/Restful API/Axios/Urql/Docker/AWS/CICD
 
-AtraeはPeople Tech分野の日本のIT企業で、私はWevoxプロダクトチームの一員です。[Wevox](https://get.wevox.io/)は、組織の能力を向上させることを目的としたB2B SaaSウェブサービスです。Wevoxは3,390以上の組織に採用され、これまでに2.83億件以上の調査回答データを集めています。
+Atrae は People Tech 分野の日本の IT 企業で、私は Wevox プロダクトチームの一員です。[Wevox](https://get.wevox.io/)は、組織の能力を向上させることを目的とした B2B SaaS ウェブサービスです。Wevox は 3,390 以上の組織に採用され、これまでに 2.83 億件以上の調査回答データを集めています。
 
 - ドメイン層とアプリケーション層をプレゼンターから分離することにより、重いプレゼンターの問題が解決されました。これにより、変更の範囲がより管理しやすくなり、テスト時に必要なモックメソッドの数が大幅に減少しました
 - React で手動で依頼注入（DI）フレームワークを実装し、インターフェース定義と実装の完全な分離を実現しました。これにより、モジュールの低い結合度と高い柔軟性が向上しました
@@ -123,24 +123,29 @@ AtraeはPeople Tech分野の日本のIT企業で、私はWevoxプロダクトチ
 
 :::
 
-::: details フロントエンドリード @[Monstarlab Japan](https://monstar-lab.com/jp) _(2018.12 ~ 2021.11 · 3年)_
+::: details フロントエンドリード @[Monstarlab Japan](https://monstar-lab.com/jp) _(2018.12 ~ 2021.11 · 3 年)_
 
 :::
 
-::: details フロントエンドリード @[Monstarlab China](https://www.monstar-lab.com.cn/) _(2016.03 ~ 2018.11 · 2年 9ヶ月)_
+::: details フロントエンドリード @[Monstarlab China](https://www.monstar-lab.com.cn/) _(2016.03 ~ 2018.11 · 2 年 9 ヶ月)_
 
 :::
 
-::: details フロントエンドエンジニア @[Monstarlab China](https://www.monstar-lab.com.cn/) _(2014.10 ~ 2016.02 · 1年 5ヶ月)_
+::: details フロントエンドエンジニア @[Monstarlab China](https://www.monstar-lab.com.cn/) _(2014.10 ~ 2016.02 · 1 年 5 ヶ月)_
+
+Html5/CSS3/SASS/JavaScript/jQuery/React/React Router/gulp/rollup
+
+- jQuery を使用してインタラクティブでレスポンシブなウェブページを設計・開発し、さまざまなデバイスやブラウザでの最適なユーザー体験を実現しました
+- React を独学し、動画視聴サイトのプロジェクトでフロントエンドとバックエンドの分離を成功裏に実現しました
 
 :::
 
-::: details フリーランス _(2009.07 ~ 2014.09 · 5年 3ヶ月)_
+::: details フリーランス _(2009.07 ~ 2014.09 · 5 年 3 ヶ月)_
 
 Html5/CSS3/SASS/JavaScript/jQuery/PHP/WordPress
 
 - 大学在学中にウェブ開発技術を独学しました。卒業後、ランドスケープアーキテクトとして働きながら、副業としてウェブ開発への情熱を追求し続けました
-- 建築設計事務所、ランドスケープ設計事務所、IT企業、ゲーム会社、時計販売会社を含む20社以上の企業にサービスを提供し、30以上のブランドのデジタルマーケティングとプロモーションプロジェクトを成功させました
+- 建築設計事務所、ランドスケープ設計事務所、IT 企業、ゲーム会社、時計販売会社を含む 20 社以上の企業にサービスを提供し、30 以上のブランドのデジタルマーケティングとプロモーションプロジェクトを成功させました
 
 :::
 

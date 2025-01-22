@@ -38,12 +38,12 @@ React/Redux/Redux-Saga/Immer/Sass/styled-components/axios/Docker/AWS/GitHub Acti
 
 :::
 
-::: details Front-End Engineer @[Monstarlab China](https://www.monstar-lab.com.cn/) - Chengdu, China \_(2014.10 ~ 2016.02 · 1 yrs 5 mos)
+::: details Front-End Engineer @[Monstarlab China](https://www.monstar-lab.com.cn/) _(2014.10 ~ 2016.02 · 1 yrs 5 mos)_
 
 Html5/CSS3/SASS/JavaScript/jQuery/React/React Router/gulp/rollup
 
-- 设计并开发了基于 jQuery 的交互式、响应式网页，并确保在多种设备和浏览器上的最佳用户体验
-- 自学了 React 并在一个视频网站项目中成功实现前后端分离
+- 设计并开发了基于 jQuery 的交互式、响应式网页，并确保在多种终端设备上的最佳用户体验
+- 自学了 React 并在一个视频浏览网站项目中成功实现前后端分离
 
 :::
 
