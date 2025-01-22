@@ -159,7 +159,41 @@ Html5/CSS3/SASS/JavaScript/jQuery/PHP/WordPress
 
 ## 🌱 個人プロジェクト
 
+AIを活用したアプリケーションの開発に取り組んでいます：
+
+[Daily Delight](https://zhumeisongsong.github.io/daily-delight.html)
+
+ロジェクト開発の基盤は次の通りです：
+
+[Multiple Projects Development Workspace](https://github.com/zhumeisongsong/multiple-products-workspace)
+
+[GraphQL Federation Workspace](https://github.com/zhumeisongsong/graphql-federation-workspace)
+
+[Shared Github Actions Library](https://github.com/zhumeisongsong/shared-actions)
+
+[@zhumeisong/semantic-release-config](https://www.npmjs.com/package/@zhumeisong/semantic-release-config)
+
+[@zhumeisong/git-cz-config](https://www.npmjs.com/package/@zhumeisong/git-cz-config)
+
+[@zhumeisong/common-error-exception](https://github.com/zhumeisongsong/multiple-products-workspace/pkgs/npm/common-error-exception)
+
+
 ## 🎨 目標やビジョン
+
+私は挑戦的な問題を解決すること、変更しやすくメンテナンスしやすいシステムを作ること、そしてチームと協力してユーザーに本当に役立つソフトウェアを開発することを楽しんでいます。
+
+私はページやAPIのような具体的なタスクを完了するだけでなく、**ローカップリング・ハイコヘージョン**のソフトウェアアーキテクチャについてもっと深く掘り下げたいと考えています：
+
+- 技術的負債の解決
+- システムのパフォーマンスデータの可視化と改善
+- 複数サービス間の複雑性の管理
+
+**アプローチ:**
+
+- 価値を創造することを目指して、価値のある挑戦を選ぶ
+- 単純な事柄を思考で複雑にする（リスクを管理し、未来に備える）
+- 複雑な事柄を行動で簡素化する（コストを抑えつつ高品質なプロダクトを提供）
+- 複雑さをシンプルに表現する（知識の移転を確実にする）
 
 ## 💬 言語
 
@@ -169,10 +203,10 @@ Html5/CSS3/SASS/JavaScript/jQuery/PHP/WordPress
 
 ## 🎓 学歴
 
-[成都理工大学](https://www.cdut.edu.cn/) - 学士 - 成都、中国 _(2008.09 - 2012.06)_
+[成都理工大学](https://www.cdut.edu.cn/) - 学士 景観設計 - 成都、中国 _(2008.09 - 2012.06)_
 
 ## 💚 個人
 
-旅行、園芸、[ブログ](https://zhumeisongsong.github.io/blog)を書いて学んだことを共有しています。
+私は旅行、ガーデニング、そして自分の学びや経験を共有するためにブログを書くのが好きです。ブログを通じて学びや経験をシェアしています。
 
 世界一周の旅を家族と一緒にしたいです。

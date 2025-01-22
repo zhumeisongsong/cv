@@ -130,6 +130,9 @@ Atrae is a Japanese IT company specializing in People Tech, I'm part of the **We
 
 MonstarLab Group is a global software development and consultation firm.
 
+React/Redux/Redux-Saga/Immer/Sass/styled-components/axios/Docker/AWS/GitHub Actions
+
+
 :::
 
 ::: details Front-End Lead @[Monstarlab China](https://www.monstar-lab.com.cn/) _(2016.03 ~ 2018.11 · 2 yrs 9 mos)_
@@ -163,11 +166,11 @@ Html5/CSS3/SASS/JavaScript/jQuery/PHP/WordPress
 
 ## 🌱 Independent Projects
 
-In my free time, I'm working on doing the AI-powered application:
+Working on doing the AI-powered application:
 
 [Daily Delight](https://zhumeisongsong.github.io/daily-delight.html)
 
-The foundations of my independent projects development are:
+The foundations of the projects development are:
 
 [Multiple Projects Development Workspace](https://github.com/zhumeisongsong/multiple-products-workspace)
 
@@ -179,11 +182,11 @@ The foundations of my independent projects development are:
 
 [@zhumeisong/git-cz-config](https://www.npmjs.com/package/@zhumeisong/git-cz-config)
 
-[@zhumeisong/common-error-exception](https://www.npmjs.com/package/@zhumeisong/common-error-exception)
+[@zhumeisong/common-error-exception](https://github.com/zhumeisongsong/multiple-products-workspace/pkgs/npm/common-error-exception)
 
 ## 🎨 Goals & Vision
 
-I enjoy solving challenging problems, building easy to change and maintainable systems, and working with team to create software that truly helps users.
+I enjoy solving challenging problems, building systems that are easy to change and maintain and working with team to create software that truly helps users.
 
 I not only want to complete specific tasks like pages or APIs, but also want to dive deeper into **low coupling and high cohesion** software architecture:
 
