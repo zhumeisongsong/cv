@@ -144,7 +144,7 @@ MonstarLab Group is a global software development and consultation firm.
 
 Html5/CSS3/SASS/JavaScript/jQuery/PHP/WordPress
 
-- Self-learned web development technologies during college. Worked as a landscape architect after graduation but pursued a passion for web development through side projects.
+- Self-learned web development skills during college. Worked as a landscape architect after graduation but pursued a passion for web development through side projects.
 - Served over 20 companies, including architecture design firms, landscape design firms, IT companies, game companies, and watch sales company. Delivered successful digital marketing and promotion projects for more than 30 brands.
   :::
 
