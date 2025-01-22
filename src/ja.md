@@ -105,7 +105,7 @@ layout: doc
 
 ::: details ソフトウェアエンジニア @[Atrae](https://atrae.co.jp/) _(2021.12 ~ · 3 年+)_
 
-React/Next.js/TailwindCSS/Jotai/Valtio/Immer/Nx Monorepo/TypeScript/NestJS/NodeJS/GraphQL/Restful API/Axios/Urql/Docker/AWS/CICD
+React/Next.js/TailwindCSS/Jotai/Valtio/Immer/Nx Monorepo/TypeScript/NestJS/NodeJS/GraphQL/Restful API/Axios/Urql/Docker/AWS/GitHub Actions
 
 Atrae は People Tech 分野の日本の IT 企業で、私は Wevox プロダクトチームの一員です。[Wevox](https://get.wevox.io/)は、組織の能力を向上させることを目的とした B2B SaaS ウェブサービスです。Wevox は 3,390 以上の組織に採用され、これまでに 2.83 億件以上の調査回答データを集めています。
 

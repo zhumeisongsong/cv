@@ -105,7 +105,7 @@ A passionate advocate for clean code and clean architecture.
 
 ::: details Software Engineer @[Atrae](https://atrae.co.jp/) _(2021.12 ~ · 3 yrs+)_
 
-React/Next.js/TailwindCSS/Jotai/Valtio/Immer/Nx Monorepo/TypeScript/NestJS/NodeJS/GraphQL/Restful API/Axios/Urql/Docker/AWS/CICD
+React/Next.js/TailwindCSS/Jotai/Valtio/Immer/Nx Monorepo/TypeScript/NestJS/NodeJS/GraphQL/Restful API/Axios/Urql/Docker/AWS/GitHub Actions
 
 Atrae is a Japanese IT company specializing in People Tech, I'm part of the **Wevox product team**. [Wevox](https://get.wevox.io/) is a B2B SaaS web service designed to enhance organizational capabilities. Over 3,390 organizations have adopted Wevox, and has gathered more than 283.5 million survey responses data in total.
 
