@@ -18,12 +18,12 @@
 
 ::: details Front-End Lead @[Monstarlab Japan](https://monstar-lab.com/jp) _(2018.12 ~ 2021.11 · 3 yrs)_
 
-React/Redux/Redux-Saga/Immer/Sass/styled-components/axios/Docker/AWS/GitHub Actions/Flutter/Firebase/
+React/Redux/Redux-Saga/Immer/Sass/styled-components/axios/Docker/AWS/GitHub Actions/Flutter/Firebase
 
-- 咖啡项目的 virtual list 实现
-- 开发了支持 10 万人+同时在线的直播留言功能。使用原子计数器保证并发中的留言数量的计数安全。使用 throttle 限制了留言刷新的频率保证性能。 使用 Python 脚本模拟大量并发请求，测试了留言功能是否能支持 10 万人同时在线
-- 领导了大型股票交易系统的 design system 的开发和文档化
-- The standardized admin management system and the shared common components/functions between projects significantly improved the development efficiency
+- 和集团各个据点的前端工程师一起工作，在集团内部推广 React 的最佳实践
+- 在一个咖啡标签打印的 web 项目上，使用 virtual list 实现了5000+ 的标签图片列表的显示性能优化，解决了页面卡顿的问题
+- 设计和开发了支持 10 万人+同时在线的直播留言功能。使用原子计数器保证并发中的留言数量的计数安全。使用 throttle 限制了留言刷新的频率保证性能。 使用 Python 脚本模拟大量并发请求，测试了留言功能是否能支持 10 万人同时在线
+- 领导了大型股票交易系统的 design system 的组件开发和维护
 
 :::
 

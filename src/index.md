@@ -105,9 +105,9 @@ A passionate advocate for clean code and clean architecture.
 
 ::: details Software Engineer @[Atrae](https://atrae.co.jp/) _(2021.12 ~ · 3 yrs+)_
 
-React/Next.js/TailwindCSS/Jotai/Valtio/Immer/Nx Monorepo/TypeScript/NestJS/NodeJS/GraphQL/Restful API/Axios/Urql/Docker/AWS/GitHub Actions
-
 Atrae is a Japanese IT company specializing in People Tech, I'm part of the **Wevox product team**. [Wevox](https://get.wevox.io/) is a B2B SaaS web service designed to enhance organizational capabilities. Over 3,390 organizations have adopted Wevox, and has gathered more than 283.5 million survey responses data in total.
+
+React/Next.js/TailwindCSS/Jotai/Valtio/Immer/Nx Monorepo/TypeScript/NestJS/NodeJS/GraphQL/Restful API/Axios/Urql/Docker/AWS/GitHub Actions
 
 - By separating the Domain and Application layers from the Presenter, the issue of the heavy Presenter was addressed. This made the scope of changes more manageable and significantly reduces the number of mock methods required during testing
 - Manually implemented a Dependency Injection (DI) framework in React, achieving complete separation between interface definitions and implementations. This improved the low coupling and high flexibility of the modules
@@ -132,6 +132,10 @@ MonstarLab Group is a global software development and consultation firm.
 
 React/Redux/Redux-Saga/Immer/Sass/styled-components/axios/Docker/AWS/GitHub Actions
 
+- Collaborated with frontend engineers from various branches of the group to promote best practices for React within the organization
+- In a coffee label printing web project, optimized the performance of displaying a list of 5,000+ label images using a virtual list, solving the page lag issue
+- Designed and developed a live-stream comment feature that supports over 100,000 concurrent users. Ensured the safety of counting concurrent comments using atomic counters. Used throttling to limit the frequency of comment refreshes to maintain performance. Employed Python scripts to simulate a large number of concurrent requests and tested whether the comment feature could support 100,000 concurrent users
+- Led the development and maintenance of components for the design system of a large-scale stock trading web project
 
 :::
 

@@ -105,9 +105,9 @@ layout: doc
 
 ::: details ソフトウェアエンジニア @[Atrae](https://atrae.co.jp/) _(2021.12 ~ · 3 年+)_
 
-React/Next.js/TailwindCSS/Jotai/Valtio/Immer/Nx Monorepo/TypeScript/NestJS/NodeJS/GraphQL/Restful API/Axios/Urql/Docker/AWS/GitHub Actions
-
 Atrae は People Tech 分野の日本の IT 企業で、私は Wevox プロダクトチームの一員です。[Wevox](https://get.wevox.io/)は、組織の能力を向上させることを目的とした B2B SaaS ウェブサービスです。Wevox は 3,390 以上の組織に採用され、これまでに 2.83 億件以上の調査回答データを集めています。
+
+React/Next.js/TailwindCSS/Jotai/Valtio/Immer/Nx Monorepo/TypeScript/NestJS/NodeJS/GraphQL/Restful API/Axios/Urql/Docker/AWS/GitHub Actions
 
 - ドメイン層とアプリケーション層をプレゼンターから分離することにより、重いプレゼンターの問題が解決されました。これにより、変更の範囲がより管理しやすくなり、テスト時に必要なモックメソッドの数が大幅に減少しました
 - React で手動で依頼注入（DI）フレームワークを実装し、インターフェース定義と実装の完全な分離を実現しました。これにより、モジュールの低い結合度と高い柔軟性が向上しました
@@ -124,6 +124,15 @@ Atrae は People Tech 分野の日本の IT 企業で、私は Wevox プロダ�
 :::
 
 ::: details フロントエンドリード @[Monstarlab Japan](https://monstar-lab.com/jp) _(2018.12 ~ 2021.11 · 3 年)_
+
+MonstarLab Groupは、グローバルなソフトウェア開発およびコンサルティング企業です。
+
+React/Redux/Redux-Saga/Immer/Sass/styled-components/axios/Docker/AWS/GitHub Actions
+
+- グループ内の各拠点のフロントエンドエンジニアと共に、Reactのベストプラクティスを社内で推進
+- コーヒーラベル印刷のWebプロジェクトで、5000+のラベル画像リストの表示パフォーマンスをVirtual Listを使用して最適化し、ページのカクつき問題を解決
+- 10万人以上が同時にオンラインのライブコメント機能を設計・開発。原子カウンターを使用して並列コメント数のカウントの安全性を保証。throttleを使用してコメント更新の頻度を制限し、パフォーマンスを確保。Pythonスクリプトを使用して大量の同時リクエストをシミュレートし、コメント機能が10万人同時にオンラインに耐えられるかテスト
+- 大規模な株取引システムのデザインシステムのコンポーネント開発とメンテナンスを主導
 
 :::
 
