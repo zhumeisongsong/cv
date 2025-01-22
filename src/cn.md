@@ -32,8 +32,8 @@ React/Redux/Redux-Saga/Immer/Sass/styled-components/axios/Docker/AWS/GitHub Acti
 React/Redux/Redux-Saga/Immer/Sass/styled-components/axios/Docker/AWS/GitHub Actions
 
 - 和 CTO office 一起工作，在公司的所有 web 项目中推广前后端分离的开发模式，前端和后端可以同时开发提高了开发效率
-- 通过项目之间的共通组件实现了测试覆盖和重构自由
-- 领导了公司 web 项目的前端代码审查标准的制定和执行，实现了前端成员间可以通过互相 review 代码来实现知识的迁移和代码品质的提高
+- 为项目之间的共通组件编写测试代码，实现了测试覆盖和重构自由
+- 领导了公司 web 项目的前端代码审查标准的制定和实施，实现了前端成员间可以通过互相 review 代码来实现知识的迁移和代码品质的提高
 - 负责了大型票务预定混合应用的 webview 的设计和开发，iOS 与 Android 原生系统之间使用共通的 webview 提升了开发效率
 
 :::

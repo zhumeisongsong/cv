@@ -134,6 +134,13 @@ MonstarLab Group is a global software development and consultation firm.
 
 ::: details Front-End Lead @[Monstarlab China](https://www.monstar-lab.com.cn/) _(2016.03 ~ 2018.11 · 2 yrs 9 mos)_
 
+React/Redux/Redux-Saga/Immer/Sass/styled-components/axios/Docker/AWS/GitHub Actions
+
+- Collaborated with the CTO office to promote a front-end and back-end separation development model across all company web projects, enabling simultaneous development and improving overall efficiency
+- Wrote test code for shared components across projects, achieving unit test coverage and enabling easier refactoring
+- Led the formulation and implementation of front-end code review standards for the company’s web projects, enabling knowledge transfer and code quality improvement among front-end team members through mutual code reviews
+- Designed and developed the WebView for a large-scale ticket booking hybrid application, utilizing a shared WebView for iOS and Android native systems, which significantly enhanced development efficiency
+
 :::
 
 ::: details Front-End Engineer @[Monstarlab China](https://www.monstar-lab.com.cn/) _(2014.10 ~ 2016.02 · 1 yrs 5 mos)_
