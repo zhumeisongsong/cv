@@ -186,7 +186,7 @@ The foundations of the projects development are:
 
 ## 🎨 Goals & Vision
 
-I enjoy solving challenging problems, building systems that are easy to change and maintain and working with team to create software that truly helps users.
+I enjoy solving challenging problems, building systems that are scalable and maintainable, and collaborating with teams to create software that genuinely helps users
 
 I not only want to complete specific tasks like pages or APIs, but also want to dive deeper into **low coupling and high cohesion** software architecture:
 
