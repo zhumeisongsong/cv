@@ -190,20 +190,26 @@ The foundations of the projects development are:
 
 ## 🎨 Goals & Vision
 
-I enjoy solving challenging problems, building systems that are scalable and maintainable, and collaborating with teams to create software that genuinely helps users
+I believe simplicity is powerful and I enjoy practicing anything that helps simplify things.
 
-I not only want to complete specific tasks like pages or APIs, but also want to dive deeper into **low coupling and high cohesion** software architecture:
+Creating a new problem to solve an old one may seem like progress, but it often amounts to running in larger circles.
+
+I aim not just to complete tasks like building pages or APIs but also to delve deeper into **low-coupling, high-cohesion** software architecture.
+
+I seek roles with work content that includes:
 
 - Resolving technical debt
-- System performance data visualization and improvement
 - Managing Complexity Across Multiple Services
+- System performance data visualization and improvement
 
-**Approach:**
+These areas align with my strengths in tackling complexity and driving impactful solutions.
 
-- Selecting a worthy challenge (aim at creating value)
-- Complicating simple matters in thought (managing risks and preparing for the future)
-- Simplifying complex matters in action (delivering quality products while controlling costs)
-- Articulating complexity in a simple manner (ensuring successful knowledge transfer)
+My approach to work is:
+
+- Selecting a worthy challenge (to aim at creating value)
+- Thoroughly analyzing simple matters (to manage risks and prepare for the future)
+- Simplifying complex matters in action (to deliver quality products while controlling costs)
+- Articulating complexity in a simple manner (to ensure successful knowledge transfer)
 
 ## 💬 Languages
 
