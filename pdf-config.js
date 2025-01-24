@@ -6,8 +6,8 @@ module.exports = {
   },
   pdf_options: {
     format: "A4",
-    margin: "30mm 20mm",
-    printBackground: true,
+    margin: "16mm 8mm",
+    printBackground: false,
   },
   stylesheet_encoding: "utf-8",
 };
