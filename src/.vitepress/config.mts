@@ -10,13 +10,6 @@ export default defineConfig({
     nav: [
       { text: "CV", link: "" },
       { text: "CV-Ja", link: "ja" },
-      {
-        text: "CV PDF",
-        items: [
-          { text: "En", link: "zhumeisong-en.cv.pdf" },
-          { text: "Ja", link: "zhumeisong-ja.cv.pdf" },
-        ],
-      },
       // { text: "Projects", link: "/projects/202112" },
       { text: "Blog", link: "https://zhumeisongsong.github.io/blog" },
     ],
