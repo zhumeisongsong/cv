@@ -8,8 +8,15 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: "CV", link: "" },
+      { text: "CV-En", link: "/" },
       { text: "CV-Ja", link: "ja" },
+      {
+        text: "PDF",
+        items: [
+          { text: "CV-En", link: "zhumeisong-en.cv.pdf" },
+          { text: "CV-Ja", link: "zhumeisong-ja.cv.pdf" },
+        ],
+      },
       // { text: "Projects", link: "/projects/202112" },
       { text: "Blog", link: "https://zhumeisongsong.github.io/blog" },
     ],

@@ -6,9 +6,8 @@
   "scripts": {
     "commit": "git-cz",
     "lint": "textlint src/*.md",
-    "build:pdf": "md-to-pdf src/zhumeisong-*.md --config-file pdf-config.js",
     "docs:dev": "vitepress dev src",
-    "docs:build": "vitepress build src",
+    "docs:build": "md-to-pdf src/public/zhumeisong-*.md --config-file pdf-config.js && vitepress build src",
     "docs:preview": "vitepress preview src"
   },
   "author": "Zhumei Song <zhumeisongsong@gmail.com>",
