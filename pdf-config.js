@@ -1,7 +1,4 @@
 module.exports = {
-  launch_options: {
-    args: ["--no-sandbox", "--disable-setuid-sandbox"],
-  },
   body_class: "markdown-body",
   marked_options: {
     headerIds: false,
