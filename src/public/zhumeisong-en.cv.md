@@ -72,4 +72,4 @@ Working on doing the AI-powered application, the foundations of the projects dev
 
 ## Personal
 
-I love traveling, gardening, and writing blogs to share my learning and experience writing [blogs](https://zhumeisongsong.github.io/blog) to share my learning and experience.
+I love traveling, gardening, and writing [blogs](https://zhumeisongsong.github.io/blog) to share my learning and experience.

@@ -227,6 +227,6 @@ My approach to work is:
 
 ## 💚 Personal
 
-I love traveling, gardening, and writing blogs to share my learning and experience writing [blogs](https://zhumeisongsong.github.io/blog) to share my learning and experience.
+I love traveling, gardening, and writing [blogs](https://zhumeisongsong.github.io/blog) to share my learning and experience.
 
 Hoping to complete a trip around the world with my family.
