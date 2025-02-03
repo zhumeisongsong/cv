@@ -4,7 +4,7 @@
 
 ## 技術スキル
 
-React, GraphQL, NestJS, Node.js, Git, Docker, AWS, GitHub Actions, clean code, clean architecture
+TypeScript, React, GraphQL, NestJS, Node.js, Git, Docker, AWS, GitHub Actions, clean code, clean architecture
 
 ## 職務経歴
 

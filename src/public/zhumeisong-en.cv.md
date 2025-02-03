@@ -4,7 +4,7 @@ Greater Tokyo Area / zhumeisongsong@gmail.com / [LinkedIn](https://www.linkedin.
 
 ## Technical Skills
 
-React, GraphQL, NestJS, Node.js, Git, Docker, AWS, GitHub Actions, clean code, clean architecture
+TypeScript, React, GraphQL, NestJS, Node.js, Git, Docker, AWS, GitHub Actions, clean code, clean architecture
 
 ## Engineering Experience
 
