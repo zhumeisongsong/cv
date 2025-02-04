@@ -32,7 +32,7 @@ Software Engineer based in Tokyo 🇯🇵
 
 - 9+ years of experience with React, 7+ years with TypeScript
 - Expertise in designing scalable, maintainable Front-end Architectures (Monorepo, Micro-frontend, Clean Architecture, etc.)
-- Writing clean code while developing user-friendly interfaces
+- Proficient in writing clean code and developing user-friendly interfaces
 - Strong understanding of Domain-Driven Design (DDD) and data modeling
 - Expertise in performance optimization (ESM tree-shaking, code splitting, lazy loading, image optimization, reducing LCP, etc.)
 - Knowledge of front-end engineering best practices (Webpack, Vite, Eslint, type-check, testing, CI/CD, etc.)
@@ -47,13 +47,14 @@ Software Engineer based in Tokyo 🇯🇵
 
 **Product:**
 
-- Experienced in pitching ideas to founders and stakeholders
-- Taking products from 0 to 1 (CPF/FPF/PSF/SPF/PMF)
+- Experienced in pitching ideas to investors and stakeholders
+- Experienced in driving a product from 0 to 1 (CPF, FPF, PSF, SPF, PMF)
 
 **Team:**
 
-- Mentoring junior engineers
+- Team player, collaborating with team members (Product Owner, Designer, Backend Engineer, etc.) to achieve goals
 - Leading the development of projects from design to implementation
+- Mentoring junior engineers
 
 ## 🌈 Skills
 
