@@ -28,33 +28,34 @@ React/Next.js/TailwindCSS/Jotai/Valtio/Immer/Nx Monorepo/TypeScript/NestJS/NodeJ
 
 React/Redux/Redux-Saga/Immer/Sass/styled-components/axios/Docker/AWS/GitHub Actions
 
-- Collaborated with frontend engineers from various branches of the group to promote best practices for React within the organization
-- In a coffee label printing web project, optimized the performance of displaying a list of 5,000+ label images using a virtual list, solving the page lag issue
-- Designed and developed a live-stream comment feature that supports over 100,000 concurrent users. Ensured the safety of counting concurrent comments using atomic counters. Used throttling to limit the frequency of comment refreshes to maintain performance. Employed Python scripts to simulate a large number of concurrent requests and tested whether the comment feature could support 100,000 concurrent users
-- Led the development and maintenance of components for the design system of a large-scale stock trading web project
+- Collaborated with frontend engineers across different branches of the organization to promote React best practices internally.
+- In a coffee label printing web project, optimized the performance of displaying a list of over 5,000 label images by using a virtual list, resolving page lag issues.
+- Designed and developed a live-stream comment feature capable of handling over 100,000 concurrent users. Ensured the safety of counting concurrent comments by utilizing atomic counters. Employed throttling to control comment refresh frequency and maintain performance. Used Python scripts to simulate a high volume of concurrent requests and tested the feature’s ability to handle 100,000 simultaneous users.
+- Led the development and maintenance of components for the design system in a large-scale stock trading web project.
+- Trained junior engineers and through code reviews to improve code quality and knowledge transfer.
 
 ### Front-End Lead @[Monstarlab China](https://www.monstar-lab.com.cn/) _(2016.03 ~ 2018.11 · 2 yrs 9 mos)_
 
 React/Redux/Redux-Saga/Immer/Sass/styled-components/axios/Docker/AWS/GitHub Actions
 
-- Collaborated with the CTO office to promote a front-end and back-end separation development model across all company web projects, enabling simultaneous development and improving overall efficiency
-- Wrote test code for shared components across projects, achieving unit test coverage and enabling easier refactoring
-- Led the formulation and implementation of front-end code review standards for the company’s web projects, enabling knowledge transfer and code quality improvement among front-end team members through mutual code reviews
-- Designed and developed the WebView for a large-scale ticket booking hybrid application, utilizing a shared WebView for iOS and Android native systems, which significantly enhanced development efficiency
+- Collaborated with the CTO office to promote a front-end and back-end separation development model across all company web projects, enabling simultaneous development and improving overall efficiency.
+- Wrote test code for shared components across projects, achieving unit test coverage and enabling easier refactoring.
+- Led the formulation and implementation of front-end code review standards for the company’s web projects, enabling knowledge transfer and code quality.improvement among front-end team members through mutual code reviews.
+- Designed and developed the WebView for a large-scale ticket booking hybrid application, utilizing a shared WebView for iOS and Android native systems, which significantly enhanced development efficiency.
 
 ### Front-End Engineer @[Monstarlab China](https://www.monstar-lab.com.cn/) _(2014.10 ~ 2016.02 · 1 yrs 5 mos)_
 
 Html5/CSS3/SASS/JavaScript/jQuery/React/React Router/gulp/rollup
 
-- Designed and developed interactive, responsive web pages based on jQuery, ensuring optimal user experience across various terminal devices
-- Self-taught React and successfully implemented a front-end and back-end separation in a video streaming website project
+- Designed and developed interactive, responsive web pages based on jQuery, ensuring optimal user experience across various terminal devices.
+- Self-taught React and successfully implemented a front-end and back-end separation in a video streaming website project.
 
 ### Freelancer _(2009.07 ~ 2014.09 · 5 yrs 3 mos)_
 
 Html5/CSS3/SASS/JavaScript/jQuery/PHP/WordPress
 
-- Self-learned web development skills during college. Worked as a landscape architect after graduation but pursued a passion for web development through side projects
-- Served over 20 companies, including architecture design firms, landscape design firms, IT companies, game companies, and watch sales company. Delivered successful digital marketing and promotion projects for more than 30 brands
+- Self-learned web development skills during college. Worked as a landscape architect after graduation but pursued a passion for web development through side projects.
+- Served over 20 companies, including architecture design firms, landscape design firms, IT companies, game companies, and watch sales company. Delivered successful digital marketing and promotion projects for more than 30 brands.
 
 ## Independent Projects
 
