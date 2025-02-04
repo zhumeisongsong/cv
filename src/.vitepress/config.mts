@@ -27,16 +27,16 @@ export default defineConfig({
 
     sidebar: {
       "/projects/": [
-        {
-          text: "Workflow Web App (WIP)",
-          link: "/projects/202208",
-        },
+        // {
+        //   text: "Workflow Web App",
+        //   link: "/projects/202208",
+        // },
         {
           text: "Admin Web App",
           link: "/projects/202112",
         },
         // {
-        //   text: "Coffee Label Generated Web App",
+        //   text: "Label Generated Web App",
         //   link: "/projects/202106",
         // },
       ],
