@@ -12,17 +12,17 @@ TypeScript, React, GraphQL, NestJS, Node.js, Git, Docker, AWS, GitHub Actions, c
 
 React/Next.js/TailwindCSS/Jotai/Valtio/Immer/Nx Monorepo/TypeScript/NestJS/NodeJS/GraphQL/Restful API/Axios/Urql/Docker/AWS/GitHub Actions
 
-- By separating the Domain and Application layers from the Presenter, the issue of the heavy Presenter was addressed. This made the scope of changes more manageable and significantly reduces the number of mock methods required during testing
-- Manually implemented a Dependency Injection (DI) framework in React, achieving complete separation between interface definitions and implementations. This improved the low coupling and high flexibility of the modules
-- Limited the use of React to the Interface-Adapter layer and UI layer, reducing the system's dependency on React and specific state management libraries
-- Refactored and migrated the survey answer application with over 500,000 monthly visits to a Monorepo. The modular design supports independent development and debugging of different components of the application, improving development efficiency and future maintainability. By implementing on-demand loading of components, the page's FCP speed was improved by 50% (from 1.8 seconds to 0.9 seconds)
-- Used semantic-release for version management of both internal private packages and shared open-source packages, implementing semantic versioning and automating the release process
-- Collaborated with backend engineer to implement a unified front-end and back-end error-handling design through a shared package (including input validation and error handling). Provided a documented error-handling solution based on Error Codes
-- Adopted a GraphQL Federation architecture in a new project, designing Subgraphs based on aggregate roots, successfully avoiding circular dependency issues
-- Developed GraphQL-based findAllWorkflowActions and findAllWorkflowTemplates APIs using NestJS, optimizing the performance of these queries
-- Used Persisted Queries to reduce request size, decreasing bandwidth consumption and eliminating the performance overhead of having the server parse and validate query content on every request
-- Applied Gzip compression to large JS files exceeding 10 MB, significantly reducing initial page load time
-- Collaborated with designers to develop and maintain a reusable UI component library based on Material UI (including components such as LoadingButton, Steps, Rate, Spin, Selectable Table, etc.), enhancing team development efficiency and code consistency
+- By separating the Domain and Application layers from the Presenter, the issue of an overly heavy Presenter was addressed. This made the scope of changes more manageable and significantly reduced the number of mock methods required during testing.
+- Manually implemented a Dependency Injection (DI) framework in React, achieving complete separation between interface definitions and implementations. This improved the decoupling and flexibility of the modules.
+- Limited the use of React to the Interface-Adapter layer and UI layer, reducing the system's dependency on React and specific state management libraries.
+- Refactored and migrated the survey answer application, which has over 500,000 monthly visits, to a Monorepo. The modular design supports independent development and debugging of different components of the application, improving development efficiency and future maintainability. By implementing on-demand loading of components, the page's First Contentful Paint (FCP) was improved by 50% (from 1.8 seconds to 0.9 seconds).
+- Used semantic-release for version management of both internal private packages and shared open-source packages, implementing semantic versioning and automating the release process.
+- Collaborated with back-end engineers to implement a unified front-end and back-end error-handling design through a shared package (including input validation and error handling). Provided a documented error-handling solution based on Error Codes.
+- Adopted a GraphQL Federation architecture in a new project, designing subgraphs based on aggregate roots, successfully avoiding circular dependency issues.
+- Developed GraphQL-based findAllWorkflowActions and findAllWorkflowTemplates APIs using NestJS, optimizing the performance of these queries.
+- Used Persisted Queries to reduce request size, decreasing bandwidth consumption and eliminating the performance overhead of having the server parse and validate query content on every request.
+- Applied Gzip compression to large JS files exceeding 10 MB, significantly reducing initial page load time.
+- Collaborated with designers to develop and maintain a reusable UI component library based on Material UI (including components such as LoadingButton, Steps, Rate, Spin, Selectable Table, etc.), enhancing team development efficiency and code consistency.
 
 ### Front-End Lead @[Monstarlab Japan](https://monstar-lab.com/jp) _(2018.12 ~ 2021.11 · 3 yrs)_
 
