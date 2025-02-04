@@ -26,11 +26,34 @@ Software Engineer based in Tokyo 🇯🇵
 
 ## 📌 Summary
 
-**Senior Front-End Engineer** with 10+ years of experience designing and building scalable, user-friendly web applications. Expert in React, TypeScript, and performance optimization, with extensive experience in developing reusable components and delivering high-quality, maintainable frontend architectures.
+**Senior Front-End Engineer** with 10+ years of experience designing and building scalable, user-friendly web applications.
 
-On the backend, proficient in NestJS, with hands-on experience building robust APIs (GraphQL, RESTful APIs), implementing maintainable and easily adaptable server-side logic, and ensuring seamless integration with frontend applications. Proven ability to tackle complex projects and deliver scalable solutions.
+**Front-End:**
 
-A passionate advocate for clean code and clean architecture.
+- 9+ years of experience with React, 7+ years with TypeScript
+- Expertise in designing scalable, maintainable Front-end Architectures (Monorepo, Micro-frontend, Clean Architecture, etc.)
+- Writing clean code while developing user-friendly interfaces
+- Strong understanding of Domain-Driven Design (DDD) and data modeling
+- Expertise in performance optimization (ESM tree-shaking, code splitting, lazy loading, image optimization, reducing LCP, etc.)
+- Knowledge of front-end engineering best practices (Webpack, Vite, Eslint, type-check, testing, CI/CD, etc.)
+
+**Back-End:**
+
+- 3+ years with NestJS
+- Hands-on experience building robust APIs (GraphQL, RESTful APIs)
+- Skilled in ensuring seamless integration with frontend applications
+- Expertise in Clean Architecture and Clean Code principles
+- Experience with Event-Driven Architecture
+
+**Product:**
+
+- Experienced in pitching ideas to founders and stakeholders
+- Taking products from 0 to 1 (CPF/FPF/PSF/SPF/PMF)
+
+**Team:**
+
+- Mentoring junior engineers
+- Leading the development of projects from design to implementation
 
 ## 🌈 Skills
 
