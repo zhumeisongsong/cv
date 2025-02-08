@@ -10,8 +10,9 @@ TypeScript, React, GraphQL, NestJS, Node.js, Git, Docker, AWS, GitHub Actions, c
 
 ### Software Engineer @[Atrae](https://atrae.co.jp/) _(2021.12 ~ · 3 yrs+)_
 
-React/Next.js/TailwindCSS/Jotai/Valtio/Immer/Nx Monorepo/TypeScript/NestJS/NodeJS/GraphQL/Restful API/Axios/Urql/Docker/AWS/GitHub Actions
+React/Next.js/TailwindCSS/Jotai/Valtio/Immer/Urql/Nx Monorepo/TypeScript/NestJS/NodeJS/GraphQL/Restful API/Axios/Docker/AWS/GitHub Actions
 
+- Led the front-end migration from a monolithic app to Nx monorepo, enabling the independent development and deployment of multiple products.
 - By separating the Domain and Application layers from the Presenter, the issue of an overly heavy Presenter was addressed. This made the scope of changes more manageable and significantly reduced the number of mock methods required during testing.
 - Manually implemented a Dependency Injection (DI) framework in React, achieving complete separation between interface definitions and implementations. This improved the decoupling and flexibility of the modules.
 - Limited the use of React to the Interface-Adapter layer and UI layer, reducing the system's dependency on React and specific state management libraries.

@@ -135,6 +135,7 @@ Atrae は People Tech 分野の日本の IT 企業で、私は Wevox プロダ�
 
 React/Next.js/TailwindCSS/Jotai/Valtio/Immer/Nx Monorepo/TypeScript/NestJS/NodeJS/GraphQL/Restful API/Axios/Urql/Docker/AWS/GitHub Actions
 
+- フロントエンド側のモノリシックアプリからNxモノレポへの移行を主導し、複数の製品の独立した開発とデプロイを実現
 - ドメイン層とアプリケーション層をプレゼンターから分離することで、プレゼンターの肥大化問題を解決。これにより、変更範囲の管理が容易になり、テスト時に必要なモックメソッドの数が大幅に減少
 - React で依存性注入（DI）フレームワークを実装し、インターフェースの定義と実装の完全な分離を実現。これにより、モジュールの結合度が低下し、柔軟性が向上
 - React の使用をインターフェース-アダプター層と UI 層に限定することで、システムの React や特定の状態管理ライブラリへの依存度を低減
