@@ -6,7 +6,7 @@
   "scripts": {
     "commit": "git-cz",
     "lint": "textlint src/*.md",
-    "build:pdf": "md-to-pdf src/public/zhumeisong-*.md --config-file pdf-config.js",
+    "build:pdf": "md-to-pdf src/public/*.md --config-file pdf-config.js",
     "docs:dev": "vitepress dev src",
     "docs:build": "vitepress build src",
     "docs:preview": "vitepress preview src"
