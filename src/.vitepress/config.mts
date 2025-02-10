@@ -17,7 +17,7 @@ export default defineConfig({
           { text: "CV-Ja", link: "zhumeisong-ja.cv.pdf" },
         ],
       },
-      { text: "Projects", link: "/projects/202112" },
+      { text: "Projects", link: "/projects/202208" },
       { text: "Blog", link: "https://zhumeisongsong.github.io/blog" },
     ],
 
@@ -27,10 +27,10 @@ export default defineConfig({
 
     sidebar: {
       "/projects/": [
-        // {
-        //   text: "Workflow Web App",
-        //   link: "/projects/202208",
-        // },
+        {
+          text: "Workflow Web App",
+          link: "/projects/202208",
+        },
         {
           text: "Admin Web App",
           link: "/projects/202112",
