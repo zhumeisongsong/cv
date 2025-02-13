@@ -145,7 +145,7 @@ React/Next.js/TailwindCSS/Jotai/Valtio/Immer/Nx Monorepo/TypeScript/NestJS/NodeJ
 - Used Persisted Queries to reduce request size, decreasing bandwidth consumption and eliminating the performance overhead of having the server parse and validate query content on every request.
 - Applied Gzip compression to large JS files exceeding 10 MB, significantly reducing initial page load time.
 - Collaborated with designers to develop and maintain a reusable UI component library based on Material UI (including components such as LoadingButton, Steps, Rate, Spin, Selectable Table, etc.), enhancing team development efficiency and code consistency.
-- [📦 Workflow App](projects/202209)
+- [📦 Workflow App](projects/202208)
 - [📦 Wevox Admin App](projects/202112)
 
 :::
