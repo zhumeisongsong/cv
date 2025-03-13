@@ -29,10 +29,10 @@
       "main"
     ]
   },
-  "packageManager": "pnpm@9.15.9",
+  "packageManager": "pnpm@10.6.3",
   "volta": {
     "node": "22.14.0",
-    "pnpm": "9.15.9"
+    "pnpm": "10.6.3"
   },
   "config": {
     "commitizen": {
