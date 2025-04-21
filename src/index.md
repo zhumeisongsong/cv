@@ -127,7 +127,13 @@ Software Engineer based in Tokyo 🇯🇵
 
 ## 👩🏼‍💻 Engineering Experience
 
-::: details Software Engineer @[Atrae](https://atrae.co.jp/) _(2021.12 ~ · 3 yrs+)_
+::: details Software Engineer @[Kraken Technologies](https://kraken.tech/) _(2025.04 ~ )
+
+Kraken Technologies is a technology company within the Octopus Energy Group, builds AI-powered products that integrate seamlessly to create the only end-to-end operating system for utilities.
+
+:::
+
+::: details Software Engineer @[Atrae](https://atrae.co.jp/) _(2021.12 ~ 2025.04 · 3 yrs 5 mos)_
 
 Atrae is a Japanese IT company specializing in People Tech, I'm part of the **Wevox product team**. [Wevox](https://get.wevox.io/) is a B2B SaaS web service designed to enhance organizational capabilities. Over 3,390 organizations have adopted Wevox, and has gathered more than 283.5 million survey responses data in total.
 

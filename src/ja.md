@@ -129,7 +129,13 @@ layout: doc
 
 ## 👩🏼‍💻 職務経歴
 
-::: details ソフトウェアエンジニア @[Atrae](https://atrae.co.jp/) _(2021.12 ~ · 3 年+)_
+::: details ソフトウェアエンジニア @[Kraken Technologies](https://kraken.tech/) _(2025.04 ~)_
+
+Kraken Technologies は Octopus Energy Group 傘下のテクノロジー企業で、公共事業向けの唯一のエンド・ツー・エンドオペレーティングシステムを実現するため、AIを活用したシームレスに統合された製品を開発しています。
+
+:::
+
+::: details ソフトウェアエンジニア @[Atrae](https://atrae.co.jp/) _(2021.12 ~ 2025.04 · 3 年 5 ヶ月)_
 
 Atrae は People Tech 分野の日本の IT 企業で、私は Wevox プロダクトチームの一員です。[Wevox](https://get.wevox.io/)は、組織の能力を向上させることを目的とした B2B SaaS ウェブサービスです。Wevox は 3,390 以上の組織に採用され、これまでに 2.83 億件以上の調査回答データを集めています。
 
