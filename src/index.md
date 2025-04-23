@@ -127,7 +127,7 @@ Software Engineer based in Tokyo 🇯🇵
 
 ## 👩🏼‍💻 Engineering Experience
 
-::: details Software Engineer @[Kraken Technologies](https://kraken.tech/) _(2025.04 ~ )
+::: details Software Engineer @[Kraken Technologies](https://kraken.tech/) _(2025.04 ~ )_
 
 Kraken Technologies is a technology company within the Octopus Energy Group, builds AI-powered products that integrate seamlessly to create the only end-to-end operating system for utilities.
 
